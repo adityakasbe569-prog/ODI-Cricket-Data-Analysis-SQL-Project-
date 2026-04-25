@@ -1,4 +1,4 @@
-** ODI Cricket Data Analysis using SQL **
+**ODI Cricket Data Analysis using Sql** 
 
 ** Overview **
 This project analyzes ODI cricket data
